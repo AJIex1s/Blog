@@ -1,0 +1,17 @@
+{
+    "name": "blog-sample",
+    "version": "1.0.0",
+    "description": "simple blog app",
+    "main": "app.js",
+    "scripts": {
+        "start": "node ./app.js"
+    },
+    "dependencies": {
+        "express": "^4.16.2",
+        "mongodb": "^2.2.33",
+        "mongoose": "^4.13.1"
+    },
+    "devDependencies": {
+        "nodemon": "^1.12.1"
+    }
+}
