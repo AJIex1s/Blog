@@ -81,4 +81,10 @@
     height: 64px;
     background-color: rgba(32, 37, 41, 0.9);
     border-top: 1px solid rgba(255, 255, 255, 0.4);
+    color: #fcd088;
+}
+.footer .footer-tagline {
+    float: right;
+    margin-right: 40px;
+    line-height: 64px;
 }

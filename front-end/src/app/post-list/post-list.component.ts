@@ -6,4 +6,4 @@ import { Component } from '@angular/core';
     templateUrl: 'post-list.component.html',
     styleUrls: ['post-list.component.css']
 })
-class PostListComponent { }
+export class PostListComponent { }
